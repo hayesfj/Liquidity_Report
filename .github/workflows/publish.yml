@@ -1,1 +1,66 @@
+name: Publish update
 
+on:
+  push:
+    paths:
+      - 'update.md'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Install Markdown
+        run: pip install markdown
+
+      - name: Build index.html
+        run: |
+          python3 - <<'PY'
+          import markdown, datetime
+          with open('update.md', 'r', encoding='utf-8') as f:
+              body = markdown.markdown(f.read(), extensions=['fenced_code', 'tables'])
+          stamp = datetime.datetime.now().strftime('%B %d, %Y')
+          html = f"""<!DOCTYPE html>
+          <html lang="en">
+          <head>
+          <meta charset="UTF-8">
+          <meta name="viewport" content="width=device-width, initial-scale=1.0">
+          <title>Latest Update</title>
+          <style>
+            body {{ font-family: system-ui, -apple-system, sans-serif; max-width: 780px;
+                   margin: 2rem auto; padding: 0 1.25rem; line-height: 1.65; color: #1a1a1a; }}
+            h1, h2, h3 {{ line-height: 1.25; }}
+            code {{ background: #f4f4f4; padding: 0.1em 0.3em; border-radius: 3px; }}
+            pre {{ background: #f4f4f4; padding: 1rem; overflow-x: auto; border-radius: 6px; }}
+            table {{ border-collapse: collapse; }}
+            th, td {{ border: 1px solid #ddd; padding: 0.4rem 0.7rem; }}
+            .updated {{ color: #666; font-size: 0.9rem; margin-bottom: 2rem; }}
+          </style>
+          </head>
+          <body>
+          <p class="updated">Last updated: {stamp}</p>
+          {body}
+          </body>
+          </html>"""
+          with open('index.html', 'w', encoding='utf-8') as f:
+              f.write(html)
+          PY
+
+      - name: Commit and push index.html
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add index.html
+          git diff --staged --quiet || git commit -m "Auto-build index.html"
+          git push
