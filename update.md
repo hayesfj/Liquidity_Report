@@ -1,88 +1,8 @@
-# Macro Liquidity & Risk Appetite — Update
+# Macro Liquidity & Risk Appetite Assessment — Update (July 17, 2026)
 
-*Data as of ~July 8, 2026 (most recent available). Mechanical, evidence-based regime read.*
+## VERDICT: **SELECTIVE RISK-ON** — Composite 6.6 / 10
 
-## Current Reading
-
-**Regime: RISK-OFF (bordering Neutral).** Composite ≈ **3.85/10**.
-
-The mechanical signals are aligned to the downside across all three pillars. Liquidity is contracting (net liquidity −$171B YoY, RRP buffer exhausted at ~$8B, reserves falling). Financial conditions are restrictive (real yields at the top of the restrictive band ~2.3%, dollar at 101, VIX spiking, a hawkish Fed pricing a ~64% September *hike*). Institutional risk appetite is deteriorating (HYG near 52-week lows on a Strong Sell, small caps reversing from highs, defensives reasserting leadership).
-
-Favored assets in this regime:
-
-- **Cash / short-duration T-bills** — highest relative attractiveness given restrictive real yields.
-- **Defensives (XLP, XLU, XLV)** — leadership already confirmed YTD.
-- **Quality large-cap with pricing power** — selectively, over speculative growth.
-
-Out of favor:
-
-- **Small caps / speculative growth** — most exposed to tightening liquidity and higher real yields.
-- **Credit-sensitive high yield** — HYG technicals and widening OAS argue for caution.
-- **Broad cyclicals** — mixed, only tactically oversold names (XLF) worth watching.
-
----
-
-## Actionable Takeaways
-
-**What is working:** Defensive sectors (staples, utilities, healthcare), cash and short-duration Treasuries, and pricing-power quality names. The dollar at ~101 supports USD cash.
-
-**What is not working:** Small caps (IWM reversed from an all-time high), high yield credit (HYG at 52-week lows, Strong Sell, OAS widening off tight levels), and speculative/long-duration growth pressured by ~2.3% real yields and a 30Y above 5%.
-
-**What would upgrade to Full Risk-On:**
-
-- Net liquidity inflecting higher — TGA drawing down and/or QT ending with reserves rising.
-- DFII10 real yield falling back below ~2.0%.
-- HYG reclaiming its range with OAS compressing, plus RSP and IWM outperforming SPY.
-- VIX sustained below 15 and the Fed pivoting away from hike rhetoric.
-
-**What would trigger deeper Risk-Off:**
-
-- HY OAS breaking above ~350bp (late-cycle complacency unwind).
-- VIX above 25–30 on a sustained basis.
-- Reserves falling toward/below ~$2.7–2.8T ("scarce reserves" threshold) with RRP already empty.
-- Real yields pushing above 2.4% or the Fed actually hiking in September.
-
----
-
-## Composite Score
-
-Math:
-
-- Liquidity: **4.0 × 40% = 1.60**
-- Financial Conditions: **3.5 × 30% = 1.05**
-- Risk Appetite: **4.0 × 30% = 1.20**
-- **Composite = 3.85 / 10 → RISK-OFF (bordering Neutral)**
-
-Regime bands used: 0–3.5 Risk-Off · 3.5–5.5 Neutral · 5.5–7.5 Selective Risk-On · 7.5–10 Full Risk-On. At 3.85 the model sits at the Risk-Off/Neutral boundary — defensively positioned with the tape actively deteriorating rather than in outright crisis.
-
----
-
-## Liquidity Analysis
-
-- **Fed Balance Sheet (WALCL):** $6,725B as of 7/1, roughly flat week-over-week and only +$65B YoY — QT has effectively stalled but there is no active expansion.
-- **Treasury General Account (WTREGEN):** Elevated near $880B on the H.4.1 week-average basis (daily balance ~$785B on 7/7); a high/rising TGA drains reserves — bearish.
-- **Reverse Repo (RRPONTSYD / Total RRP):** Collapsed to ~$8B — the buffer that absorbed 2022–2026 QT is essentially gone, so any further drain hits bank reserves directly.
-- **Reserve Balances (WRESBAL):** $2,967B, down $259B YoY — falling reserves are the clearest bearish liquidity signal.
-- **Net Liquidity (WALCL − TGA − RRP):** ~$5,836B, down ~$171B YoY — the composite is contracting.
-- **Conflicting signal:** WALCL is no longer shrinking (mildly supportive), but that is overwhelmed by an empty RRP and falling reserves. **Liquidity score: 4/10.**
-
-## Financial Conditions Analysis
-
-- **10Y Real Yield (DFII10):** ~2.30–2.33% (nominal 10Y 4.56%, breakeven ~2.25%) — in the restrictive >2.3% band, the single most important negative in this pillar.
-- **Dollar (DXY):** ~101 — upper end of the neutral zone, tilting restrictive; safe-haven bid from Middle East conflict.
-- **Volatility (VIX / MOVE):** VIX ~18 and spiked ~12% intraday — above the sub-15 complacency line, signaling rising stress; rate-vol elevated alongside the oil-driven inflation scare.
-- **Credit:** HY OAS ~267–284bp is still historically *tight*, but HYG at $79.76 sits near its 52-week low with a "Strong Sell" technical — spreads have room only to widen.
-- **Policy overhang:** Fed hawkish (Warsh: "prices are too high"), markets pricing ~64% odds of a September *hike* — a rare, actively restrictive backdrop.
-- **Conflicting signal:** Credit spreads remain calm in absolute terms even as HYG price and equity vol deteriorate — a classic pre-stress divergence. **Financial conditions score: 3.5/10.**
-
-## Risk Appetite Analysis
-
-- **Credit (HYG/IEF):** HYG near 52-week lows on a Strong Sell while Treasuries catch a safe-haven bid — credit risk appetite is deteriorating, the highest-priority negative here.
-- **Breadth (RSP vs SPY):** ~58% of S&P names above the 50DMA and softening — moderate participation that is rolling over, not expanding.
-- **Cyclicals vs Defensives:** XLP (staples) has led YTD and defensives are reasserting; XLF is only tactically oversold — the mix leans defensive/caution.
-- **Small Caps (IWM vs SPY):** Russell 2000 −1.37% on the day and reversed from a fresh all-time high — small-cap non-confirmation points to narrow, fragile risk-taking.
-- **Tape:** SPX −0.86%, Nasdaq −0.80% on the session, oil spiking on Iran strikes — broad risk reduction underway.
-- **Conflicting signal:** Breadth at ~58% is not yet outright bearish, and financials are oversold enough to bounce — but leadership quality is defensive. **Risk appetite score: 4/10.**
+Risk appetite is broad and healthy (small-cap leadership, tight credit), but the liquidity tailwind is fading (reserves grinding lower, RRP buffer gone) and real yields are restrictive. That combination supports risk *selectively* — favoring cyclicals and breadth plays — rather than a full-throttle, buy-everything regime.
 
 ---
 
@@ -90,23 +10,105 @@ Regime bands used: 0–3.5 Risk-Off · 3.5–5.5 Neutral · 5.5–7.5 Selective 
 
 | Category | Indicator | Current Reading | Interpretation | Score |
 |----------|-----------|-----------------|----------------|-------|
-| Liquidity | Fed Balance Sheet (WALCL) | $6,725B (7/1), roughly flat, +$65B YoY | QT stalled/near-neutral, not expanding | — |
-| Liquidity | Treasury General Account (WTREGEN) | ~$880B (H.4.1 7/1); ~$785B daily 7/7 | Elevated, net reserve drain | — |
-| Liquidity | Reverse Repo (RRPONTSYD / Total RRP) | ~$8B | Buffer fully exhausted, no cushion left | — |
-| Liquidity | Reserve Balances (WRESBAL) | $2,967B, −$259B YoY | Falling — bearish liquidity | — |
-| Liquidity | Net Liquidity (WALCL−TGA−RRP) | ~$5,836B, −$171B YoY | Contracting | **4/10** |
-| Fin. Conditions | 10Y Real Yield (DFII10) | ~2.30–2.33% | Restrictive (>2.3%) | — |
-| Fin. Conditions | Dollar (DXY) | ~101 | Neutral-to-restrictive (upper band) | — |
-| Fin. Conditions | VIX | ~18, spiked +12% intraday | Rising stress, above complacency line | — |
-| Fin. Conditions | Credit (HY OAS / HYG) | OAS ~267–284bp; HYG $79.76 near 52-wk low | Spreads tight but widening; HYG "Strong Sell" | **3.5/10** |
-| Risk Appetite | HYG / IEF | HYG near 52-wk low, technical Strong Sell | Credit risk appetite deteriorating | — |
-| Risk Appetite | RSP vs SPY | Breadth ~58% >50DMA, softening | Moderate participation, rolling over | — |
-| Risk Appetite | Cyclicals (XLI/XLF/XLB) vs Defensives (XLU/XLP) | XLP leading YTD; XLF tactically oversold | Mixed / defensive tilt reasserting | — |
-| Risk Appetite | IWM vs SPY | Russell −1.37% on the day, reversed from ATH | Small caps lagging — narrow | — |
-| Risk Appetite | Breadth (% >50DMA, A/D, H/L) | ~58% >50DMA | Neutral, deteriorating | **4/10** |
+| **Liquidity** | Federal Reserve Balance Sheet (WALCL) | $6.74T (Jul 8), +0.4% YoY, ~flat 3mo | QT effectively paused; stable-to-slightly rising (mild bullish) | — |
+| **Liquidity** | Treasury General Account (WTREGEN) | ~$745B (Jul 9), falling from ~$890B FY-start | Drawdown injects liquidity (bullish) | — |
+| **Liquidity** | Reverse Repo (RRPONTSYD) | ~$0.2B | Fully drained; no cushion left (neutral/structural risk) | — |
+| **Liquidity** | Reserve Balances (WRESBAL) | $3.10T (Jul 8), slowly declining | Still "ample" but grinding lower (bearish) | — |
+| **Liquidity** | **Net Liquidity (WALCL−TGA−RRP)** | **~$5.99T** | Flat-to-slightly-up near term | **6/10** |
+| **Fin. Conditions** | 10Y Real Yield (DFII10) | 2.31% (Jul 16) | Restrictive (>2.3% band) — the main drag | — |
+| **Fin. Conditions** | Dollar (DXY) | ~100.7 | Neutral (98–101), upper end | — |
+| **Fin. Conditions** | VIX | ~16.7 (Jul 16 prev. close) | Benign / risk-on | — |
+| **Fin. Conditions** | MOVE (bond vol) | Low (~60s) | Calm rates vol (bullish) | — |
+| **Fin. Conditions** | HY Credit (OAS / HYG) | ~269 bps (Jul 10), very tight | Loose credit conditions (bullish) | **6/10** |
+| **Risk Appetite** | HYG / IEF | HYG bid; spreads compressing | Credit risk appetite improving | — |
+| **Risk Appetite** | RSP vs SPY | RSP ahead YTD (~9.7% vs 8.4%) | Breadth broadening | — |
+| **Risk Appetite** | Cyclicals vs Defensives | Rotation into financials/materials/cyclicals since late 2025 | Cyclicals leading | — |
+| **Risk Appetite** | IWM vs SPY | R2K ~+20% YTD, best first half since 1991 | Strong, durable small-cap leadership | — |
+| **Risk Appetite** | Breadth (%>50DMA, A/D) | Broad; all 11 small-cap GICS sectors beating large-cap | Healthy, non-narrow tape | **8/10** |
 
 ---
 
-*Secondary observation (non-primary signal): BTC ~$61,600, −3.6% on the day — consistent with the broader risk-off tape but not used as a model input.*
+## Liquidity Analysis
 
-*Sources: FRED (WALCL, WTREGEN, RRPONTSYD, WRESBAL, DFII10, DGS10, T10YIE, VIXCLS), U.S. Treasury Daily Statement, StreetStats, TradingEconomics, Investing.com, Yahoo Finance, Convex (HY OAS). Not investment advice.*
+- **Balance sheet (WALCL) has stabilized.** At ~$6.7T as of July 8 (up ~$73B YoY), QT is effectively over — a mild positive versus the multi-year drain.
+- **TGA is falling — the cleanest bullish input.** The Treasury General Account fell to ~$745B on July 9 from ~$890B at the fiscal-year start, releasing cash into the system.
+- **RRP is fully drained (~$0.2B).** The reverse-repo buffer that cushioned QT for two years is gone; it can no longer fall to offset reserve declines. This is the key structural vulnerability.
+- **Reserve balances are the bearish swing factor.** At $3.10T, reserves remain "ample" but are grinding lower — with no RRP cushion, further drains hit reserves directly.
+- **Net Liquidity ≈ $5.99T,** roughly flat-to-slightly-up near term as the TGA drawdown offsets the reserve drift. Scorecard: 2 of 4 inputs bullish (WALCL, TGA), 1 neutral (RRP), 1 bearish (reserves) → **6/10.**
+
+## Financial Conditions Analysis
+
+- **Real yields are restrictive — the single biggest headwind.** DFII10 at 2.31%, well above its 10-year average, sits in the ">2.3% restrictive" band and caps long-duration/speculative equity.
+- **Dollar is neutral.** DXY ~100.7 is mid-to-upper in the neutral 98–101 zone — not a tailwind, not a brake.
+- **Equity volatility is benign.** VIX ~16.7 signals a calm, risk-tolerant tape.
+- **Rates volatility is low.** MOVE in the low-60s (down from a 52-week high near 140 earlier in the cycle) removes a major 2024–25 headwind.
+- **Credit is loose.** HY OAS at ~269 bps, below the 350 bps "late-cycle complacency" line — supportive, though it leaves little margin for error. Net: 4 of 5 sub-factors supportive/neutral, but the most-weighted one (real yields) is restrictive → **6/10.**
+
+## Risk Appetite Analysis
+
+- **Credit risk appetite is firmly on.** With HY spreads tight and compressing and rates vol low, HYG is outperforming duration (IEF) — the highest-priority signal reads risk-on.
+- **Breadth is broadening.** RSP is leading SPY year-to-date as the mega-cap rally shows cracks — a shift away from narrow leadership.
+- **Cyclicals are leading defensives.** A rotation into cyclicals, financials, and materials has been underway since late 2025, partly fed by AI-capex spillover into industrials and power.
+- **Small-cap confirmation is the standout.** The Russell 2000 is up close to 20% — its best first half since 1991 — with all 11 small-cap sectors outperforming their large-cap counterparts, which hasn't happened in over 30 years.
+- **Internals are healthy, not junk-driven.** Less-shorted small caps are outperforming heavily-shorted ones — the opposite of a short-squeeze — signaling a sustainable, broad advance → **8/10.**
+
+## Composite Score
+
+```
+Liquidity:            6 × 40%  = 2.4
+Financial Conditions: 6 × 30%  = 1.8
+Risk Appetite:        8 × 30%  = 2.4
+------------------------------------
+COMPOSITE                       = 6.6 / 10
+```
+
+**Classification bands:** ≥8.0 Full Risk-On · 6.0–7.9 **Selective Risk-On** · 4.0–5.9 Neutral · <4.0 Risk-Off
+**→ 6.6 = Selective Risk-On.**
+
+**Conflicting signals (explicit):**
+- Restrictive real yields (2.31%) vs. a broadening, small-cap-led rally — multiples *should* be capped, yet breadth is expanding. Watch which wins.
+- Near-term liquidity add (TGA falling) vs. structural liquidity tightening (RRP empty, reserves declining). The tailwind is fading even as it's still positive.
+- *Secondary observation only:* Bitcoin (~$78k in late April per one source) is not used as a model input; crypto risk appetite is broadly consistent with the loose-credit read but carries no weight here.
+
+---
+
+## Current Thoughts — Assets Favored
+
+**Favored:**
+- **Cyclicals** — industrials (XLI), financials (XLF), materials (XLB): the active rotation plus AI-power/data-center capex spillover.
+- **Small & mid caps** — the clearest leadership; size the position but respect near-term overbought conditions.
+- **Equal-weight / value tilt (RSP)** — direct expression of the broadening theme.
+- **Quality growth** — still works, but no longer the *only* game; leadership is widening away from pure mega-cap.
+
+**Less favored / avoid:**
+- **Long-duration speculative growth** — most exposed to the 2.3% restrictive real yield.
+- **Defensives** (XLP, and XLU except for its AI-power angle) — lagging in a cyclical, risk-on tape.
+- **Cash** — still earns ~3.5%, but opportunity cost is rising as breadth broadens.
+
+---
+
+## Actionable Takeaways
+
+**What's working:** small caps and equal-weight, cyclical rotation (financials/industrials/materials), tight credit / HYG, low equity and bond volatility, a falling TGA.
+
+**What's not working:** long-duration speculative growth (pinned by restrictive real yields), defensives, and the pure mega-cap concentration trade as leadership broadens.
+
+**What would upgrade to FULL RISK-ON:**
+- 10Y real yield (DFII10) back **below ~2.0%**
+- Reserves stabilizing/rising (true end of QT) with TGA continuing to fall
+- HY OAS holding **<300 bps** with HYG/IEF still favoring HYG
+- DXY breaking **below 98**
+- Breadth persisting (RSP ≥ SPY, IWM leadership intact)
+
+**What would trigger RISK-OFF:**
+- HY OAS widening through **~350–400 bps** (credit crack — the earliest warning)
+- VIX sustained **>20–25** and/or MOVE spiking back **>100**
+- Real yields spiking **>2.5%**
+- Small-caps / RSP rolling over vs SPY (breadth collapse, leadership re-narrowing)
+- Sharp TGA rebuild draining reserves toward scarcity (reserves → ~$2.7–2.8T) with no RRP buffer
+- DXY surging **>103**
+
+---
+*This is a mechanical regime assessment for informational purposes, not personalized investment advice. Not a financial advisor; validate the latest data before acting, as several inputs update daily/weekly.*
+
+*Data as of July 15–16, 2026 (H.4.1 week ending Jul 8; DTS Jul 9; market data Jul 16). Sources: Federal Reserve H.4.1 / FRED (WALCL, WTREGEN, RRPONTSYD, WRESBAL, DFII10, VIXCLS, BAMLH0A0HYM2), U.S. Treasury Daily Treasury Statement, CBOE, ICE BofA, market reporting.*
